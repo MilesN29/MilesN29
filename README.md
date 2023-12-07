@@ -1,7 +1,7 @@
 # 👋 Greetings from Miles Newland's Code Hub! 👋
 
 ### Quick Intro
-Hey there! I'm Miles Newland, a Computer Science student at the University of Pittsburgh, fueled by a passion for coding and problem-solving.
+Hey there😃 I'm Miles Newland, a Computer Science student at the University of Pittsburgh, fueled by a passion for coding and problem-solving.
 
 ### Tech Toolbox
 * Front End Languages: JavaScript, HTML, and CSS
@@ -27,4 +27,4 @@ As an Undergraduate Teaching Assistant for Algorithm and Data Structures I, I've
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/miles-newland-34518a262/) for more details.
 
-Thanks for dropping by! 🚀 If you have any questions or ideas for collaboration, feel free to reach out. Happy coding! ☀️👨‍💻
+Thanks for dropping by! If you have any questions or ideas for collaboration, feel free to reach out. Happy coding! ☀️👨‍💻
