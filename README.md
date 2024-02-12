@@ -1,4 +1,4 @@
-# HI :smile: !
+# HI! :smile:
 
 ### Quick Intro
 Hey there :) I'm Miles Newland, a Computer Science student at the University of Pittsburgh, fueled by a passion for coding and problem-solving.
