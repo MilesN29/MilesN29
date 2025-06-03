@@ -1,4 +1,4 @@
-# HI! My Name is Miles Newland:smile:
+# HI! My Name is Miles Newland :smile:
 
 
 ### Tech Skills
